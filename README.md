@@ -1,3 +1,2 @@
 # hello-world
-This repository is for learning
-Learn until the world ends
+This repository is for learning,learn until the world ends
